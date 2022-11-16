@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^9.0",
-        "yansongda/pay": "^2.0"
+        "illuminate/support": "9.0",
+        "yansongda/pay": "2.10.*"
     },
     "autoload": {
         "psr-4": {
