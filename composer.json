@@ -1,6 +1,6 @@
 {
     "name": "dbh/laravel9-pay",
-    "description": "从laravel-pay克隆，兼容",
+    "description": "备份用",
     "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
     "support": {
         "issues": "https://github.com/yansongda/laravel-pay/issues",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "9.*",
+        "illuminate/support": "^9.0||^10.0",
         "dbh/ysd-pay": "0.0.*"
     },
     "autoload": {
